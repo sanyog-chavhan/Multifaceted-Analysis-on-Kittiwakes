@@ -52,7 +52,7 @@ This repository contains **statistical analyses** and **R code** exploring breed
 ## Author
 
 - **Sanyog Chavhan**  
-  MSc Student, Data Science & Statistics
+  Student - MSc Data Science
 
 ## Cloning
 
